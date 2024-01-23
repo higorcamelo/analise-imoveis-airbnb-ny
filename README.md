@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Este projeto tem como objetivo realizar uma análise consistente dos dados do Airbnb em Nova York, buscando compreender padrões e tendências relevantes. A análise inclui insights sobre títulos e regras de locação, tipos de imóveis, preços, políticas e autenticação dos anfitriões.
+Este projeto tem como objetivo realizar uma análise consistente dos dados do Airbnb em Nova York, buscando compreender padrões e tendências relevantes. A análise inclui apontamentos sobre palavras-chave e regras de locação, tipos de imóveis, preços, localização, políticas e autenticação dos anfitriões.
 
 ## Tecnologias Utilizadas
 
